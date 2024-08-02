@@ -11,6 +11,11 @@ Acki Watch Notification System is a Node.js application that tracks wallet trans
 - Uses Nodemailer for sending emails via Gmail.
 - Scheduled to run every 30 seconds using cron jobs.
 
+## Demo and Live Application
+
+- [YouTube Demo](https://youtu.be/aNKeoPutd1A)
+- [Live Application](https://ackiwatch.vercel.app/)
+
 ## Getting Started
 
 ### Prerequisites
@@ -137,4 +142,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Nodemailer for email handling.
 - Firebase for database services.
 - Acki Nacki for blockchain services.
-
